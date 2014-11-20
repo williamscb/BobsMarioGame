@@ -1,16 +1,10 @@
 // TODO
 game.PlayerEntity = me.Entity.extend({
-init: function(x, y, settings) {
-this._super(me.Entity, "init", x, y);
-        image: "matio";
-        spritewidth; "128",
-        spriteheight; "128",
-        width; 128,
-        height; 128,
-        getShape: function(){
-        return (new .me.Rect(0, 0, 128, 128))
-
-        }
+    init: function (x, y, settings{){
+        this._super(me.Entity, 'init', [x, y, {
+            ])
+    }
+})
 
 
 settings.image = "mario";
