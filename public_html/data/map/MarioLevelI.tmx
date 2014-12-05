@@ -25,6 +25,8 @@
   <object name="levelTrigger" x="1004" y="366" width="122" height="198">
    <properties>
     <property name="level" value="MarioLevelII"/>
+    <property name="xSpawn" value="90"/>
+    <property name="ySpawn" value="0"/>
    </properties>
   </object>
   <object x="1126" y="564" height="2"/>
